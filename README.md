@@ -43,4 +43,4 @@ A simple, interview‑friendly MERN project where users can create, edit, delete
 * **Server**: Express routes → controllers → services; `auth` middleware checks JWT; `error` middleware standardizes errors.
 * **DB**: Mongoose models for `User` and `Story` (title, content, date, tags, imageUrl, pinned, ownerId, timestamps).
 
--
+
